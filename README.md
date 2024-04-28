@@ -20,4 +20,4 @@ fixes For `slope > 1`:
 - which will make the slope in the range `0 < slope < 1` 
 - then we can use the above algorithm to get the points. 
 - lastly we can reswap (x,y) with (y,x) to get the proper result.
-## computer graphics and image processing 
+
